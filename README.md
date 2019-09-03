@@ -67,3 +67,8 @@ itsd - presents the number of iterations after which data is appended to the dat
 
 Example of results from one of the experiments carried out on my computer on map4.png for alpha equal to 0.01 and different values of gamma.
 <br/><img src="./res/experiment.png" alt="experiments" width="1000"/>
+
+## Sources
+
+Project uses SARSA nad QLearn implementations from https://github.com/chen0040.
+Game engine was based on majoolwip youtube series.
