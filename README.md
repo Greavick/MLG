@@ -70,5 +70,5 @@ Example of results from one of the experiments carried out on my computer on map
 
 ## Sources
 
-Project uses SARSA nad QLearn implementations from https://github.com/chen0040.  
+Project uses SARSA nad QLearn implementations from https://github.com/chen0040/java-reinforcement-learning.  
 Game engine was based on majoolwip youtube series.
